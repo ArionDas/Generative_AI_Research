@@ -58,3 +58,12 @@ https://arxiv.org/abs/2406.08100
 ### 19) Consistent Middle Enhancement in LLMs
 https://arxiv.org/abs/2406.07138
 <br>
+### 20) LLMs providing feedback on research articles
+https://www.linkedin.com/posts/rajeswaran-v_we-know-that-ai-is-helping-people-write-papers-activity-7208272147134205953-NfzS?utm_source=share&utm_medium=member_desktop
+<br>
+### 21) ChatGPT is bull#h#t
+https://www.linkedin.com/posts/activity-7208121146024628224-on7o?utm_source=share&utm_medium=member_desktop
+<br>
+### 22) Is GPT4o good at Table recognition
+https://www.linkedin.com/posts/shengyun-anthony-peng_machinelearning-gpt-table-activity-7196198710643441664-edNB?utm_source=share&utm_medium=member_desktop
+<br>
