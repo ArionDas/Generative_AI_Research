@@ -4,6 +4,12 @@ This repository contains SOTA concepts derived from top tier research papers in 
 ### Graph based prompt optimization using DsPY
 https://www.linkedin.com/posts/maryammiradi_possible-replacement-of-prompt-hacking-graph-based-activity-7206613132205535234-jCfw?utm_source=share&utm_medium=member_desktop
 <br>
+### MultiModal AI Architectures Evolution**
+https://www.linkedin.com/feed/update/urn:li:activity:7202977920020004867?utm_source=share&utm_medium=member_desktop
+<br>
+### Llama3 from scratch
+https://www.linkedin.com/posts/naklecha_i-implemented-llama3-from-scratch-every-activity-7198270292970872832-2frV?utm_source=share&utm_medium=member_desktop
+<br>
 ### Intention based Embedding Model for text messages
 https://www.linkedin.com/posts/pierre-louis-biojout-9509741aa_intent-embed-capturing-user-intention-in-activity-7207014246386151425-o4VX?utm_source=share&utm_medium=member_desktop
 <br>
@@ -58,6 +64,23 @@ https://www.linkedin.com/posts/activity-7208121146024628224-on7o?utm_source=shar
 ### Is GPT4o good at Table recognition
 https://www.linkedin.com/posts/shengyun-anthony-peng_machinelearning-gpt-table-activity-7196198710643441664-edNB?utm_source=share&utm_medium=member_desktop
 <br>
+### Mat-Mul Free Language Modeling
+https://www.linkedin.com/posts/omarsar_matmul-free-llms-proposes-an-implementation-activity-7204139829998010368-8XMA?utm_source=share&utm_medium=member_desktop
+<br>
+
+# LLM REASONING
+### LLMs for Probabilistic Reasoning
+https://www.linkedin.com/posts/raphaelmansuy_llms-are-capable-of-probabilistic-reasoning-activity-7209518362681327617-cnXC?utm_source=share&utm_medium=member_desktop
+<br>
+### Predictable Memorization in LLMs
+https://www.linkedin.com/posts/bommarito_llms-dont-memorize-things-they-grok-activity-7207698156963131392-XXmF?utm_source=share&utm_medium=member_desktop
+<br>
+### How far can Transformers reason
+https://www.linkedin.com/posts/raphaelmansuy_ai-how-far-can-transformers-reason-activity-7206452021636255745-5_7W?utm_source=share&utm_medium=member_desktop
+<br>
+### Planning Abilities of LLMs
+https://proceedings.neurips.cc/paper_files/paper/2023/hash/efb2072a358cefb75886a315a6fcf880-Abstract-Conference.html
+<br>
 
 # RAG
 ### Graph RAG
@@ -69,3 +92,15 @@ https://www.linkedin.com/posts/tonyseale_corrective-retrieval-augmented-generati
 ### RAG + Knowledge Graph
 https://www.linkedin.com/posts/svonava_rag-knowledge-graphs-cut-customer-support-activity-7207397265425006593-t2-c?utm_source=share&utm_medium=member_desktop
 <br>
+
+# Long Context Processing
+### Infini Transformer
+https://arxiv.org/abs/2404.07143
+<br>
+### GraphReader
+https://www.linkedin.com/posts/raphaelmansuy_graphreaderlong-context-processing-in-ai-activity-7209866207464718338-ww_p?utm_source=share&utm_medium=member_desktop
+<br>
+
+# LLM OPTIMIZATION
+### LLMs are serving 20000 queries per second
+https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_how-characterais-llms-serve-20000-queries-activity-7209570013735702528-xsgT?utm_source=share&utm_medium=member_desktop
