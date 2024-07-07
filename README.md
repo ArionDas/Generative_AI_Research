@@ -63,6 +63,9 @@ https://www.linkedin.com/feed/update/urn:li:activity:7202977920020004867?utm_sou
 ### Mixture of Agents
 https://www.linkedin.com/posts/togethercomputer_mixture-of-agentsa-framework-that-leverages-activity-7206337712671379456-z2ci?utm_source=share&utm_medium=member_desktop
 <br>
+### Self Evolving Agents through Symbolic Learning
+https://arxiv.org/pdf/2406.18532
+<br>
 ### Cohere int8 & binary embeddings
 https://cohere.com/blog/int8-binary-embeddings
 <br>
@@ -78,11 +81,15 @@ https://arxiv.org/abs/2406.07138
 ### Mat-Mul Free Language Modeling
 https://www.linkedin.com/posts/omarsar_matmul-free-llms-proposes-an-implementation-activity-7204139829998010368-8XMA?utm_source=share&utm_medium=member_desktop
 <br>
+### EAGLE 2 - Faster Inference of LMs with Dynamic Draft Trees
+https://arxiv.org/abs/2406.16858
+<br>
 
 # OPEN SOURCE LLMs
 ### NEMOTRON : A 340B transformer from NVIDIA
 https://www.linkedin.com/posts/pascalbiese_nemotron-4-340b-technical-report-activity-7208919714608144385--n0V?utm_source=share&utm_medium=member_desktop
 <br>
+
 # LLM REASONING
 ### Q* Multi-step Reasoning in AI
 https://www.linkedin.com/posts/raphaelmansuy_q-improving-multi-step-reasoning-for-llms-activity-7210463942932873217-B6D3?utm_source=share&utm_medium=member_desktop
@@ -102,8 +109,14 @@ https://proceedings.neurips.cc/paper_files/paper/2023/hash/efb2072a358cefb75886a
 ### Tree Search for Language Model Agents
 https://jykoh.com/search-agents/paper.pdf
 <br>
+### Memorization in LLMs as a multifacted phenomenon
+https://arxiv.org/pdf/2406.17746
+<br>
 
 # RAG
+### Best Practices in RAG
+https://arxiv.org/abs/2407.01219
+<br>
 ### Graph RAG
 https://www.linkedin.com/posts/sarthakrastogi_graph-rag-can-perform-much-better-than-std-activity-7206988711329222657-Okf0?utm_source=share&utm_medium=member_desktop
 <br>
@@ -113,8 +126,14 @@ https://www.linkedin.com/posts/tonyseale_corrective-retrieval-augmented-generati
 ### RAG + Knowledge Graph
 https://www.linkedin.com/posts/svonava_rag-knowledge-graphs-cut-customer-support-activity-7207397265425006593-t2-c?utm_source=share&utm_medium=member_desktop
 <br>
+### LongRAG - Enhancing RAG with Long Context LLMs
+https://arxiv.org/pdf/2406.15319
+<br>
 ### PlanRAG
 https://arxiv.org/abs/2406.12430
+<br>
+### AutoRAG-HP : Automatic Online Hyper-parameter Tuning for RAG
+https://arxiv.org/abs/2406.19251
 <br>
 ### From RAG to rich parameters
 https://arxiv.org/abs/2406.12824
@@ -129,6 +148,24 @@ https://www.linkedin.com/posts/raphaelmansuy_graphreaderlong-context-processing-
 <br>
 ### Can Long-Context Language Models Subsume Retrieval, RAG, SQL ?
 https://www.linkedin.com/posts/omarsar_can-long-context-language-models-subsume-activity-7209957073315315712-c1Bq?utm_source=share&utm_medium=member_desktop
+<br>
+### Benchmarking Long-Context LLMs with Extended Multi-Doc QA
+https://arxiv.org/pdf/2406.17419
+<br>
+### MInference - 10X faster processing for million-token LLM prompts
+https://arxiv.org/pdf/2407.02490
+<br>
+### SampleAttention : Near Lossless Acceleration of Long Context LLM inference
+https://arxiv.org/abs/2406.15486v2
+<br>
+
+# LLMs & GRAPHs
+### GraCoRe : Benchmarking graph comprehension and complex reasoning in LLMs
+https://arxiv.org/abs/2407.02936v1
+<br>
+### Survey of LLMs for Graphs
+https://arxiv.org/abs/2405.08011v2
+<br>
 
 # HALLUCINATION MITIGATION
 ### Semantic Entropy
@@ -137,6 +174,12 @@ chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.nature.com/artic
 ### Banishing Hallucinations : LAMINI
 https://www.linkedin.com/posts/pierre-louis-biojout-9509741aa_intent-embed-capturing-user-intention-in-activity-7207014246386151425-o4VX?utm_source=share&utm_medium=member_desktop
 <br>
+### Reduce Hallucinations using Context Aware Decoding
+https://arxiv.org/pdf/2305.14739
+<br>
+### Confabulation : Surprising value of LLM Hallucinations
+https://arxiv.org/abs/2406.04175v2
+<br>
 
 # LLM OPTIMIZATION
 ### LLMs are serving 20000 queries per second
@@ -144,4 +187,15 @@ https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_how-characterais-llms-se
 <br>
 ### Mitigating Memorization in LLMs
 https://arxiv.org/abs/2406.10209
+<br>
+### GrokFast : Accelerated Grokking by Amplifying slow gradients
+https://arxiv.org/abs/2405.20233
+<br>
+### Memory^3 : Langauge Modeling with Explicit Memory
+https://arxiv.org/abs/2407.01178
+<br>
+
+# EVALUATION
+### Self-Evaluation as a Defense Against Adversarial Attacks on LLMs
+https://arxiv.org/abs/2407.03234
 <br>
